@@ -7,7 +7,6 @@ My current focus is on **data engineering, machine learning, and applied AI**. I
 ### Selected work
 
 - **[Kraków Air Quality Intelligence](https://github.com/W1CH33R/krakow-air-quality-pipeline)** — hourly modeled air-quality data ingestion, validation, PostgreSQL analytics and an interactive Streamlit dashboard. Includes automated tests and a Docker build in GitHub Actions.
-- **Bike Demand Forecasting** *(in progress)* — time-aware evaluation of bike rental demand models using public historical data, with baseline comparisons and error analysis.
 
 ### Working with
 
